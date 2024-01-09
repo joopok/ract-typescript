@@ -10,3 +10,6 @@ getTime
 getComputedStyle
 
 globalThis
+
+
+adfafadfadfadf
