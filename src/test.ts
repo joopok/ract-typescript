@@ -1,0 +1,1 @@
+let option : object = {name: "default", sex:"M"};
